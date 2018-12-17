@@ -1,0 +1,7 @@
+[package]
+name = "neural_network"
+version = "0.1.0"
+authors = ["toornax <nathan.leloup@tuta.io>"]
+edition = "2018"
+
+[dependencies]

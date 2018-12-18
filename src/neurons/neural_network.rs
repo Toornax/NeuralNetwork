@@ -1,0 +1,7 @@
+struct NeuralNetwork {
+
+}
+
+impl NeuralNetwork {
+    
+}
